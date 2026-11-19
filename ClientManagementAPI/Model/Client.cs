@@ -19,6 +19,10 @@ public class Client
     [StringLength(20)]
     public string Phone { get; set; } = string.Empty;
 
+
+
+
+
     public DateTime RegistrationDate { get; set; }
 }
 
